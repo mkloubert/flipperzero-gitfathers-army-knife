@@ -1,6 +1,6 @@
 # The GitFather's Army Knife for Flipper Zero
 
-Based on: [https://github.com/jamisonderek/flipper-zero-tutorials/tree/main/ui/skeleton_app](https://github.com/jamisonderek/flipper-zero-tutorials/tree/main/ui/skeleton_app) @ [flipper-zero-tutorials
+Based on: [Skeleton App](https://github.com/jamisonderek/flipper-zero-tutorials/tree/main/ui/skeleton_app) @ [flipper-zero-tutorials
 ](https://github.com/jamisonderek/flipper-zero-tutorials)
 
 Personal required firmware: [0.98.3](https://github.com/flipperdevices/flipperzero-firmware/releases/tag/0.98.3)
